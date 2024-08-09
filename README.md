@@ -16,10 +16,7 @@ To view the project, simply clone the repository and open the `index.html` file 
 ```bash
 git clone https://github.com/yourusername/userbenchmark-redesign.git
 ```
-```bash
-cd userbenchmark-redesign
-```
-```bash
+
 open index.html
-```
+
 Thank you for checking out the UserBenchmark Redesign!
